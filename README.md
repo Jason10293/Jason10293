@@ -1,5 +1,7 @@
 ### hi there, I'm Jason Wu 👋
 
+welcome to my github 😎
+
 ```javascript
 const jason = {
   pronouns: "he" | "him",
