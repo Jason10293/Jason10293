@@ -6,6 +6,6 @@ welcome to my github 😎
 const jason = {
   pronouns: "he" | "him",
   code: ["javascript", "python", "java", "html", "css"],
-  technologies: ["react", "next.js (soon)", "node.js (soon)", "mongoDB (soon)"],
+  technologies: ["react", "firebase"],
   school: ["Queen's University"],
 }
