@@ -5,7 +5,7 @@ welcome to my github 😎
 ```javascript
 const jason = {
   pronouns: "he" | "him",
-  code: ["javascript", "python", "java", "html", "css"],
-  technologies: ["react", "firebase"],
+  programming languages: ["javascript", "python", "java", "html", "css"],
+  technologies: ["React", "firebase", "SQL", "tailwind CSS"],
   school: ["Queen's University"],
 }
